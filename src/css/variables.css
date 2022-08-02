@@ -1,0 +1,9 @@
+:root{
+    --sedans-bg-color: hsl(31, 77%, 52%);
+    --suvs-bg-color:hsl(184, 100%, 22%);
+    --luxury-bg-color: hsl(179, 100%, 13%);
+    --neutral-soft-color: hsl(0, 0%, 95%);
+    --neutral-medium-color: hsla(0, 0%, 100%, 0.75);
+    --font-title: 'Big Shoulders Display', cursive;
+    --font-secundary-text: 'Lexend Deca', sans-serif;
+}

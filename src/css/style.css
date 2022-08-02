@@ -1,0 +1,33 @@
+html{
+    font-size: 62.5%;
+}
+
+main{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    max-width: 92rem;
+    /* min-height: 50rem; */
+}
+
+.container .sedans{
+    background-color: var(--sedans-bg-color);
+    border-radius: 1rem 0 0 1rem;
+    max-width: 33.33%;
+}
+
+.container .suvs{
+    background-color: var(--suvs-bg-color);
+    max-width: 33.33%;
+}
+
+.container .luxury{
+    background-color: var(--luxury-bg-color);
+    border-radius: 0 1rem 1rem 0;
+    max-width: 33.33%;
+}

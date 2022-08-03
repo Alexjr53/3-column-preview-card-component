@@ -84,6 +84,7 @@ main{
     color: var(--neutral-soft-color);
     border: 0.2rem solid #ffffff;
 }
+
 .container .card.sedans{
     background-color: var(--sedans-bg-color);
     border-radius: 1rem 0 0 1rem;

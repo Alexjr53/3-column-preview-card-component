@@ -17,6 +17,7 @@ main{
     display: flex;
     max-width: 92rem;
     min-height: 50rem;
+    margin: 2rem;
 }
 
 .container .card{
@@ -53,16 +54,36 @@ main{
 
 .container .card.sedans .btn a{
     color: var(--sedans-bg-color);
+    transition: 0.2s ease-in-out;
+}
+
+.container .card.sedans .btn a:hover{
+    background-color: var(--sedans-bg-color);
+    color: var(--neutral-soft-color);
+    border: 0.2rem solid #ffffff;
 }
 
 .container .card.suvs .btn a{
     color: var(--suvs-bg-color);
+    transition: 0.2s ease-in-out;
+}
+
+.container .card.suvs .btn a:hover{
+    background-color: var(--suvs-bg-color);
+    color: var(--neutral-soft-color);
+    border: 0.2rem solid #ffffff;
 }
 
 .container .card.luxury .btn a{
     color: var(--luxury-bg-color);
+    transition: 0.2s ease-in-out;
 }
 
+.container .card.luxury .btn a:hover{
+    background-color: var(--luxury-bg-color);
+    color: var(--neutral-soft-color);
+    border: 0.2rem solid #ffffff;
+}
 .container .card.sedans{
     background-color: var(--sedans-bg-color);
     border-radius: 1rem 0 0 1rem;

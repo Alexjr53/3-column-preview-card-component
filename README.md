@@ -1,6 +1,6 @@
-# Frontend Mentor - Solução do 3-column preview card component
+# Desafio Frontend Mentor - Solução do 3-column preview card component
 
-Esta é uma solução para o [Desafio 3-column preview card component no Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [Desafio 3-column preview card component no Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
 [![NPM](https://img.shields.io/github/license/Alexjr53/3-column-preview-card-component)](https://github.com/Alexjr53/3-column-preview-card-component/blob/main/LICENSE)
 
@@ -22,20 +22,20 @@ Esta é uma solução para o [Desafio 3-column preview card component no Fronten
 
 Os usuários devem ser capazes de:
 
-- Visualize o layout ideal para a página, dependendo do tamanho da tela do dispositivo
+- criar o layout ideal para a página, dependendo do tamanho da tela do dispositivo.
 
-- Veja os estados de foco para elementos interativos
+- Criar o efeito de hover para os elementos interativos.
 
 ### Screenshot
 #### Desktop
-![cartões](src/images/screenshot-desktop.gif)
+![cartões](src/design/screenshot-desktop.gif)
 
 #### Mobile
-![cartões](src/images/screenshot-mobile.gif)
+![cartões](src/design/screenshot-mobile.gif)
 
 ### Links
 
-- Solução URL: [3-column preview card component - Frontend mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-EPAkzRLkuZ)
+- Solução do desafio: [3-column preview card component - Frontend mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-EPAkzRLkuZ)
 - URL da página: [3-column preview card component](https://alexjr53.github.io/3-column-preview-card-component/) 
 
 ## Meu processo

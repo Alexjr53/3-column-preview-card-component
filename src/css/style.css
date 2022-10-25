@@ -1,7 +1,3 @@
-html{
-    font-size: 62.5%;
-}
-
 body{
     background-color: var(--neutral-soft-color);
 }
@@ -26,66 +22,6 @@ main{
     padding: 4.8rem 4.8rem 0;
 }
 
-.container .card .info .title{
-    font-family: var(--font-title);
-    font-size: 4rem;
-    padding-top: 3.2rem;
-    color: var(--neutral-soft-color);
-}
-
-.container .card .info .description{
-    font-family: var(--font-secundary-text);
-    color: var(--neutral-medium-color);
-    font-size: 1.5rem;
-    padding-top: 2.5rem;
-    line-height: 2.5rem;
-}
-
-.container .card .btn{
-    font-size: 1.5rem;
-    margin: 9.6rem 0 0;
-}
-
-.container .card .btn a{
-    font-family: var(--font-secundary-text);
-    background-color: var(--neutral-soft-color);
-    padding: 1.6rem 3.2rem;
-    border-radius: 3rem;
-}
-
-.container .card.sedans .btn a{
-    color: var(--sedans-bg-color);
-    transition: 0.2s ease-in-out;
-}
-
-.container .card.sedans .btn a:hover{
-    background-color: var(--sedans-bg-color);
-    color: var(--neutral-soft-color);
-    border: 0.2rem solid #ffffff;
-}
-
-.container .card.suvs .btn a{
-    color: var(--suvs-bg-color);
-    transition: 0.2s ease-in-out;
-}
-
-.container .card.suvs .btn a:hover{
-    background-color: var(--suvs-bg-color);
-    color: var(--neutral-soft-color);
-    border: 0.2rem solid #ffffff;
-}
-
-.container .card.luxury .btn a{
-    color: var(--luxury-bg-color);
-    transition: 0.2s ease-in-out;
-}
-
-.container .card.luxury .btn a:hover{
-    background-color: var(--luxury-bg-color);
-    color: var(--neutral-soft-color);
-    border: 0.2rem solid #ffffff;
-}
-
 .container .card.sedans{
     background-color: var(--sedans-bg-color);
     border-radius: 1rem 0 0 1rem;
@@ -98,4 +34,61 @@ main{
 .container .card.luxury{
     background-color: var(--luxury-bg-color);
     border-radius: 0 1rem 1rem 0;
+}
+
+.container .card .title{
+    font-family: var(--font-title);
+    font-size: 4rem;
+    padding-top: 3.2rem;
+    color: var(--neutral-soft-color);
+}
+
+.container .card .description{
+    font-family: var(--font-secundary-text);
+    color: var(--neutral-medium-color);
+    font-size: 1.5rem;
+    padding-top: 2.5rem;
+    line-height: 2.5rem;
+}
+
+.container .card .btn{
+    font-size: 1.5rem;
+    margin-top: 9.6rem;
+}
+
+.container .card .btn a{
+    font-family: var(--font-secundary-text);
+    background-color: var(--neutral-soft-color);
+    padding: 1.6rem 3.2rem;
+    border-radius: 3rem;
+    transition: 0.2s ease-in-out;
+}
+
+.container .card.sedans .btn a{
+    color: var(--sedans-bg-color);
+}
+
+.container .card.suvs .btn a{
+    color: var(--suvs-bg-color);
+}
+
+.container .card.luxury .btn a{
+    color: var(--luxury-bg-color);
+}
+
+.container .card .btn a:hover{
+    color: var(--neutral-soft-color);
+    border: 0.2rem solid #ffffff;
+}
+
+.container .card.sedans .btn a:hover{
+    background-color: var(--sedans-bg-color);
+}
+
+.container .card.suvs .btn a:hover{
+    background-color: var(--suvs-bg-color);
+}
+
+.container .card.luxury .btn a:hover{
+    background-color: var(--luxury-bg-color);
 }

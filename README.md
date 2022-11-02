@@ -35,8 +35,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução do desafio: [3-column preview card component - Frontend mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-EPAkzRLkuZ)
-- URL da página: [3-column preview card component](https://alexjr53.github.io/3-column-preview-card-component/) 
+- Solução do desafio no frontend mentor: [3 column preview card component - Frontend mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-EPAkzRLkuZ)
+- URL da página: [3 column preview card component](https://alexjr53.github.io/3-column-preview-card-component/) 
+- Repositório do projeto no GitHub: [3 column preview card component](https://github.com/Alexjr53/3-column-preview-card-component)
 
 ## Meu processo
 

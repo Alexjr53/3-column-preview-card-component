@@ -44,7 +44,7 @@ main{
 }
 
 .container .card .description{
-    font-family: var(--font-secundary-text);
+    font-family: var(--font-secondary-text);
     color: var(--neutral-medium-color);
     font-size: 1.5rem;
     padding-top: 2.5rem;
@@ -57,7 +57,7 @@ main{
 }
 
 .container .card .btn a{
-    font-family: var(--font-secundary-text);
+    font-family: var(--font-secondary-text);
     background-color: var(--neutral-soft-color);
     padding: 1.6rem 3.2rem;
     border-radius: 3rem;

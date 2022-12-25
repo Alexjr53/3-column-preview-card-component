@@ -16,7 +16,7 @@ Esta é uma solução para o [Desafio 3-column preview card component no Fronten
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
